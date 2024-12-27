@@ -1,0 +1,15 @@
+# 忽略CLion相关文件
+.idea/
+cmake-build-debug/
+cmake-build-release/
+*.iml
+
+# 忽略编译生成的文件
+*.o
+*.so
+*.a
+*.out
+
+# 忽略日志和缓存文件
+*.log
+
